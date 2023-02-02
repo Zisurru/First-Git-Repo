@@ -1,2 +1,2 @@
 # First-Git-Repo
-The next one.
+The new one.
